@@ -9,7 +9,7 @@ Data source: Yahoo Finance | March 2026
 This project provides a deep-dive financial analysis of SAP SE, focusing on its transition to a Cloud-first business model.
 
 📊 Key Highlights:
-Intrinsic Value: €213.49 (45.2% Upside vs. Market)
+Intrinsic Value: €213.49 (45.2% Upside vs. Market).
 
 Methodology: 5-Year Free Cash Flow (FCF) Forecast, Dividend Discount Model (DDM), and Multiples Valuation (P/E).
 
