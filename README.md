@@ -25,3 +25,7 @@ software company with €171.6B market cap.
 
 ## Data Source
 Yahoo Finance via yfinance | March 2026
+
+## Context
+Built as part of a personal finance portfolio | Chad J. Zutter | Scott B. Smart 
+Principles of Managerial Finance Sixteenth Edition, Global EDdition
